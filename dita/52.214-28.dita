@@ -117,7 +117,7 @@ for submission of certified cost or pricing data in FAR <xref href="15.403-4.dit
          <section class="- topic/section "><?FM MARKER [Alt] Start?>
             <p class="- topic/p " id="d3196e84">
                <i class="+ topic/ph hi-d/i ">Alternate I</i>
-               <ph rev="FAC 2025-06 October 1, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2024-001?>(<ph outputclass="SmCaps" class="- topic/ph ">Oct</ph> 2025)<?FM MARKER [Why] Amend section 52.214-28 in Alternate I by:   a. Revising the date of the alternate;?></ph>. As prescribed in 14.201-7(c)(1)(ii), substitute the following paragraph (b) in place of paragraph (b) of the basic clause:</p>
+               (<ph outputclass="SmCaps" class="- topic/ph ">Oct</ph> 2025). As prescribed in 14.201-7(c)(1)(ii), substitute the following paragraph (b) in place of paragraph (b) of the basic clause:</p>
             <p outputclass="List1" class="- topic/p ">(b) Unless an exception
 under FAR <xref href="15.403-1.dita#FAR_15_403_1"
                      base="FAR_15_403_1"
@@ -135,8 +135,8 @@ estimating process such as the judgmental factors applied and the
 mathematical or other methods used in the estimate, including those
 used in projecting from known data, and the nature and amount of
 any contingencies included in the price)—</p>
-            <p class="- topic/p " outputclass="List2" id="d3212e103">(1) Before modifying any subcontract that was awarded prior to July 1, 2018, involving a pricing adjustment expected to exceed <ph rev="FAC 2025-06 October 1, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2024-001?>$950,000<?FM MARKER [Why] b. Removing from paragraph (b)(1) “$750,000” and adding “$950,000” in its place; and?></ph>; or</p>
-            <p class="- topic/p " outputclass="List2" id="d3212e110">(2) Before awarding any subcontract expected to exceed <ph rev="FAC 2025-06 October 1, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2024-001?>$2.5 million<?FM MARKER [Why] c. Removing from paragraph (b)(2) “$2 million” wherever it appears and adding “$2.5 million” in their places, respectively.?></ph> on or after July 1, 2018, or modifying any subcontract that was awarded on or after July 1, 2018, involving a pricing adjustment expected to exceed <ph rev="FAC 2025-06 October 1, 2025" class="- topic/ph ">$2.5 million</ph>.</p>
+            <p class="- topic/p " outputclass="List2" id="d3212e103">(1) Before modifying any subcontract that was awarded prior to July 1, 2018, involving a pricing adjustment expected to exceed $950,000; or</p>
+            <p class="- topic/p " outputclass="List2" id="d3212e110">(2) Before awarding any subcontract expected to exceed $2.5 million on or after July 1, 2018, or modifying any subcontract that was awarded on or after July 1, 2018, involving a pricing adjustment expected to exceed $2.5 million.</p>
             <?FM MARKER [Alt] End?>
          </section>
       </conbody>

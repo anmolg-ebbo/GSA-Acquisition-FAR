@@ -17,7 +17,8 @@
                         <ph props="autonumber" class="- topic/ph ">(1)</ph> The Trade
 Agreements Act (<xref href="http://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2501&amp;num=0&amp;edition=prelim"
                               scope="external"
-                              format="html">19 U.S.C.2501</xref>, <i class="+ topic/ph hi-d/i ">et
+                              format="html"
+                              class="- topic/xref ">19 U.S.C.2501</xref>, <i class="+ topic/ph hi-d/i ">et
 seq</i>.) provides the authority for the President to waive the
 Buy American statute and other discriminatory provisions for eligible
 products from countries that have signed an international trade
@@ -129,8 +130,7 @@ Contract (equal to or exceeding)</entry>
                      <entry colname="4"
                             align="right"
                             outputclass="CellBody_Right"
-                            class="- topic/entry ">
-                        $6,708,000
+                            class="- topic/entry "> $<ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">6,683,000</ph>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -171,21 +171,21 @@ FTA
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2025-007?>105,767<?FM MARKER [Why] Amend section 25.402 in paragraph (b) by revising table 1.?></ph>
                      </entry>
                      <entry colname="3"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="4"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        6,708,000
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">6,683,000</ph>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -234,21 +234,21 @@ and Nicaragua)
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="3"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="4"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        6,708,000
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">6,683,000</ph>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -265,21 +265,21 @@ FTA
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="3"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="4"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        6,708,000
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">6,683,000</ph>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -296,21 +296,21 @@ FTA
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="3"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="4"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        6,708,000
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">6,683,000</ph>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -337,7 +337,7 @@ FTA
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        6,708,000
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">6,683,000</ph>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -368,7 +368,7 @@ FTA
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        6,708,000
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">6,683,000</ph>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -408,14 +408,14 @@ FTA
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="3"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="4"
                             rowsep="0"
@@ -483,7 +483,7 @@ FTA
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        6,708,000
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">6,683,000</ph>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -513,7 +513,7 @@ FTA
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        6,708,000
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">6,683,000</ph>
                      </entry>
                   </row>
                   <row rowsep="1" class="- topic/row ">
@@ -530,21 +530,21 @@ FTA
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="3"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        102,280
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">105,767</ph>
                      </entry>
                      <entry colname="4"
                             rowsep="0"
                             align="right"
                             outputclass="CellBody_Right"
                             class="- topic/entry ">
-                        6,708,000
+                        <ph rev="FAC 2026-01 March 11, 2026" class="- topic/ph ">6,683,000</ph>
                      </entry>
                   </row>
                   <row rowsep="0" class="- topic/row ">
