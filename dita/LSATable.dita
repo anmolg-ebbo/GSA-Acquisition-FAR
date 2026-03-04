@@ -88,17 +88,14 @@
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <xref outputclass="fm:ParaNumOnly"
-                              href="25.1101.dita#FAR_25_1101"
-                              class="- topic/xref ">25.1101</xref>
+                              href="25.603.dita#FAR_25_603"
+                              class="- topic/xref ">25.603</xref>
                         <xref outputclass="fm:List"
-                              href="25.1101.dita#FAR_25_1101/d1698e100"
-                              class="- topic/xref "> (b)(1)(ii)</xref> and <xref outputclass="fm:List"
-                              href="25.1101.dita#FAR_25_1101/d1698e105"
-                              class="- topic/xref "> (b)(1)(iii)</xref>
+                              href="25.603.dita#FAR_25_603/d1667e101"
+                              class="- topic/xref "> (c)(1)</xref>
                      </entry>
                      <entry colname="2" class="- topic/entry ">
-                        <p outputclass="List1" class="- topic/p ">Amend section 25.1101 by—   a. Removing from paragraph (b)(1)(iii) “$102,280” and adding “$105,767” in its place; and </p>
-                        <p outputclass="List2" class="- topic/p ">b. Removing from paragraph (b)(2)(iii) “$102,280” and adding “$105,767”in its place.</p>
+                        <p outputclass="List1" class="- topic/p ">Amend section 25.603 by removing from paragraph (c)(1) “$6,708,000” and adding “$6,683,000” in its place.</p>
                      </entry>
                      <entry colname="3" class="- topic/entry ">
                         <xref format="html"
@@ -109,11 +106,34 @@
                   <row rowsep="1" class="- topic/row ">
                      <entry colname="1" class="- topic/entry ">
                         <xref outputclass="fm:ParaNumOnly"
+                              href="25.1101.dita#FAR_25_1101"
+                              class="- topic/xref ">25.1101</xref>
+                        <xref outputclass="fm:List"
+                              href="25.1101.dita#FAR_25_1101/d1698e105"
+                              class="- topic/xref "> (b)(1)(iii)</xref> and <xref outputclass="fm:List"
+                              href="25.1101.dita#FAR_25_1101/d1698e136"
+                              class="- topic/xref "> (b)(2)(iii)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p outputclass="List1" class="- topic/p ">b. Removing from paragraph (b)(2)(iii) “$102,280” and adding “$105,767”in its place.</p>
+                        <p outputclass="List2" class="- topic/p ">Amend section 25.1101 by—   a. Removing from paragraph (b)(1)(iii) “$102,280” and adding “$105,767” in its place; and </p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry ">
+                        <xref format="html"
+                              scope="external"
+                              href="http://www.federalregister.gov/d//p-amd-b">FAR Case 2025-007</xref>
+                     </entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">
+                        <xref outputclass="fm:ParaNumOnly"
                               href="25.1102.dita#FAR_25_1102"
                               class="- topic/xref ">25.1102</xref>
                         <xref outputclass="fm:List"
                               href="25.1102.dita#FAR_25_1102/d1699e12"
                               class="- topic/xref ">(a)</xref>,<xref outputclass="fm:List"
+                              href="25.1102.dita#FAR_25_1102/d1699e52"
+                              class="- topic/xref ">(c)</xref>,<xref outputclass="fm:List"
                               href="25.1102.dita#FAR_25_1102/d1699e71"
                               class="- topic/xref "> (c)(3)</xref>,<xref outputclass="fm:List"
                               href="25.1102.dita#FAR_25_1102/d1699e97"
@@ -121,6 +141,7 @@
                      </entry>
                      <entry colname="2" class="- topic/entry ">
                         <p outputclass="List1" class="- topic/p ">Amend section 25.1102 by—   a. Removing from the introductory text of paragraphs (a) and (c) “$6,708,000” and adding “$6,683,000” in their places; and </p>
+                        <p outputclass="List2" class="- topic/p ">Amend section 25.1102 by—   a. Removing from the introductory text of paragraphs (a) and (c) “$6,708,000” and adding “$6,683,000” in their places; and </p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraphs (c)(3) and (d)(3) “$6,708,000” and “$13,296,489” and adding “$6,683,000” and “$13,749,689” in their places, respectively.</p>
                         <p outputclass="List2" class="- topic/p ">b. Removing from paragraphs (c)(3) and (d)(3) “$6,708,000” and “$13,296,489” and adding “$6,683,000” and “$13,749,689” in their places, respectively.</p>
                      </entry>
