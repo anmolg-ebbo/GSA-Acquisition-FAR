@@ -18,7 +18,7 @@
          <p id="d3083e15"
             outputclass="Ctr_SmCaps"
             class="- topic/p "
-            rev="FAC 2025-06 October 1, 2025"><?FM MARKER [CaseNumber] FAR Case 2024-001?>Annual Representations and Certifications (Oct 2025)<?FM MARKER [Why] Amend section 52.204-8 by revising the date of the provision, and removing from paragraph (c)(1)(ii) “$150,000” and adding “$200,000” in its place.?></p>
+            rev="FAC 2026-01 March 13, 2026"><?FM MARKER [CaseNumber] FAR Case 2025-007?>Annual Representations and Certifications (Mar 2026)<?FM MARKER [Why] Amend section 52.204-8 by—   a. Revising the date of the provision; and ?></p>
          <ol id="d3053e25" class="- topic/ol ">
             <li props="Runin" class="- topic/li ">
                <p class="- topic/p " id="d3083e23">
@@ -196,7 +196,7 @@
                               <xref base="i1063408"
                                     href="52.203-11.dita#FAR_52_203_11"
                                     outputclass="fm:ParaNumOnly"
-                                    class="- topic/xref ">52.203-11</xref>, Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions. This provision applies to solicitations expected to exceed <ph rev="FAC 2025-06 October 1, 2025" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2024-001?>$200,000<?FM MARKER [Why] Amend section 52.204-8 by revising the date of the provision, and removing from paragraph (c)(1)(ii) “$150,000” and adding “$200,000” in its place.?></ph>.</p>
+                                    class="- topic/xref ">52.203-11</xref>, Certification and Disclosure Regarding Payments to Influence Certain Federal Transactions. This provision applies to solicitations expected to exceed $200,000.</p>
                         </li>
                         <li class="- topic/li ">
                            <p class="- topic/p " id="d3083e145">
@@ -506,12 +506,7 @@
                               </li>
                               <li class="- topic/li ">
                                  <p class="- topic/p " id="d3083e365">
-                                    <ph props="autonumber" class="- topic/ph ">(C)</ph>
-                                     If the
-                                    acquisition value is $100,000
-                                    or more but is less than $102,280,
-                                    the provision with its Alternate III
-                                    applies. </p>
+                                    <ph props="autonumber" class="- topic/ph ">(C)</ph> If the acquisition value is $100,000 or more but is less than <ph rev="FAC 2026-01 March 13, 2026" class="- topic/ph "><?FM MARKER [CaseNumber] FAR Case 2025-007?>$105,767,<?FM MARKER [Why] b. Removing from paragraph (c)(1)(xxi)(C) “$102,280” and adding “$105,767” in its place.?></ph> the provision with its Alternate III applies. </p>
                               </li>
                            </ol>
                         </li>
